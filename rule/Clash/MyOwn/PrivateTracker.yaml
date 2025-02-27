@@ -1,8 +1,19 @@
 #FOR PERSONAL USE
 payload:
   - DOMAIN-KEYWORD,agsvpt
+  - DOMAIN-KEYWORD,lemonhd
+  - DOMAIN-KEYWORD,sunnypt
+  - DOMAIN-KEYWORD,ilolicon
   - DOMAIN-KEYWORD,announce
+  - DOMAIN-KEYWORD,crabpt
+  - DOMAIN-KEYWORD,ptchdbits
+  - DOMAIN-KEYWORD,ptcafe
+  - DOMAIN-KEYWORD,ecust
+  - DOMAIN-KEYWORD,qingwapt
+  - DOMAIN-KEYWORD,ptvicomo
+  - DOMAIN-KEYWORD,hdarea
   - DOMAIN-KEYWORD,bitbr
+  - DOMAIN-KEYWORD,yemapt
   - DOMAIN-KEYWORD,chdbits
   - DOMAIN-KEYWORD,m-team
   - DOMAIN-KEYWORD,hducom
@@ -11,6 +22,7 @@ payload:
   - DOMAIN-SUFFIX,dajiao.cyou
   - DOMAIN-SUFFIX,dicmusic.com
   - DOMAIN-SUFFIX,fsm.name
+  - DOMAIN-SUFFIX,ptlgs.org
   - DOMAIN-SUFFIX,gamegamept.com
   - DOMAIN-SUFFIX,hdkyl.in
   - DOMAIN-SUFFIX,invites.fun
@@ -19,7 +31,6 @@ payload:
   - DOMAIN-SUFFIX,ptlsp.com
   - DOMAIN-SUFFIX,ptpimg.me
   - DOMAIN-SUFFIX,publicbt.com
-  - DOMAIN-SUFFIX,qingwapt.com
   - DOMAIN-SUFFIX,rotorrent.ro
   - DOMAIN-SUFFIX,rousi.zip
   - DOMAIN-SUFFIX,sehuatang.net
@@ -146,7 +157,6 @@ payload:
   - DOMAIN-SUFFIX,learnflakes.net
   - DOMAIN-SUFFIX,leaves.red
   - DOMAIN-SUFFIX,leet-tracker.moe
-  - DOMAIN-SUFFIX,lemonhd.org
   - DOMAIN-SUFFIX,lztr.me
   - DOMAIN-SUFFIX,madsrevolution.net
   - DOMAIN-SUFFIX,martin-gebhardt.eu
@@ -229,7 +239,6 @@ payload:
   - DOMAIN-SUFFIX,xingtan.one
   - DOMAIN-SUFFIX,zhuque.in
   - DOMAIN-SUFFIX,zmpt.cc
-  - DOMAIN,share.ilolicon.com
   - DOMAIN,0d.kebhana.mx
   - DOMAIN,1337.abcvg.info
   - DOMAIN,api.ipv4online.uk
