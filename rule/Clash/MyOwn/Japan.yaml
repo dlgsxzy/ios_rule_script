@@ -1,5 +1,8 @@
 #FOR PERSONAL USE
 payload:
   - DOMAIN-KEYWORD,fanza
+  - DOMAIN-KEYWORD,avdb
+  - DOMAIN-KEYWORD,ffaoa
   - DOMAIN,dmm.co.jp
+  
 
